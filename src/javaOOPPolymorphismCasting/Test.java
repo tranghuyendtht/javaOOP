@@ -1,4 +1,4 @@
-package javaOOP.Polymorphism.Casting;
+package javaOOPPolymorphismCasting;
 
 public class Test {
 
