@@ -1,4 +1,4 @@
-package javaOOP.Polymorphism.Overriding;
+package javaOOPPolymorphismOverriding;
 
 public class Pig extends Annimal{
 	
