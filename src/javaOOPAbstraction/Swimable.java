@@ -1,4 +1,4 @@
-package javaOOP.abstraction;
+package javaOOPAbstraction;
 
 public interface Swimable {
 

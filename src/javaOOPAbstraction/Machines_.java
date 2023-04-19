@@ -1,4 +1,4 @@
-package javaOOP.abstraction;
+package javaOOPAbstraction;
 
 public abstract class Machines_ {
 	public void maintainance() {

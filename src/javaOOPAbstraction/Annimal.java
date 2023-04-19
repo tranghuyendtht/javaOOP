@@ -1,9 +1,10 @@
-package javaOOP.abstraction;
+package javaOOPAbstraction;
 
 public abstract class Annimal {
 	public static void feed() {
 		
 		System.out.println("I can feed");
+		// ok
 
 	}
 
