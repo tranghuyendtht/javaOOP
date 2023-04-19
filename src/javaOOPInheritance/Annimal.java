@@ -1,4 +1,4 @@
-package javaOOP.Inheritance;
+package javaOOPInheritance;
 
 public class Annimal {
 	public Annimal() {
