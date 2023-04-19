@@ -1,4 +1,4 @@
-package javaOOP.Encapsulation;
+package javaOOPEncapsulation;
 
 public class Test extends Dog{
 
