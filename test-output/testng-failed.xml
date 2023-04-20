@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="javaTester.Topic_11_String_Exercise">
+      <class name="exception.Topic_02_Selenium_Exception">
         <methods>
-          <include name="TC_02"/>
+          <include name="afterClass"/>
+          <include name="TC_06_invalidSelectorException"/>
+          <include name="beforeClass"/>
         </methods>
-      </class> <!-- javaTester.Topic_11_String_Exercise -->
+      </class> <!-- exception.Topic_02_Selenium_Exception -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
